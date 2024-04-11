@@ -7,12 +7,15 @@ Objective: Refine the transcript for clarity and readability while preserving th
 Steps:
 
 Remove Timestamps: Delete all timestamps and speaker identifiers within the transcript.
+
 Grammar & Punctuation:
 Fix grammatical errors (e.g., subject-verb agreement, tense inconsistencies).
 Correct punctuation mistakes (e.g., missing commas, misplaced periods).
 Capitalize proper nouns and the beginning of sentences.
+
 Content Preservation:
-Do not: Condense the content or remove spoken elements like hesitations or fillers ("um," "uh").
+Do not: Condense the content. Use all of the content to maintain the speaker's thoughts, opinions, and points of view.
+Do: Remove filler works and hesitations ("um," "uh", "like").
 Maintain:
 The natural flow of conversation, including pauses and interruptions.
 The speaker's unique voice and style.
