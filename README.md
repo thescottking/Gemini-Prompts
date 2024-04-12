@@ -1,6 +1,6 @@
 # Gemini-Prompts
 
-Transcription Prompt
+<b>Transcription Prompt</B>
 
 Objective: Edit the transcript for grammar, spelling, punctuation, and readability while preserving the full content and speaker intent.
 
