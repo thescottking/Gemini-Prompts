@@ -2,11 +2,11 @@
 
 <b>Transcription Prompt</B>
 
-Objective: Edit the transcript for grammar, spelling, punctuation, and readability while preserving the full content and speaker intent.
+Objective: Edit the transcript for grammar, spelling, punctuation. Do not remove content to preserve the full content and speaker intent.
 
 Steps:
 
-Remove Timestamps: Delete all timestamps and speaker identifiers within the transcript.
+Remove Timestamps: Delete all timestamps.
 
 Grammar & Punctuation: Fix grammatical errors (e.g., subject-verb agreement, tense inconsistencies). Correct punctuation mistakes (e.g., missing commas, misplaced periods).
 
@@ -14,7 +14,7 @@ Capitalize proper nouns and the beginning of sentences.
 
 Content Preservation:
 
-Do not: Condense the content. Use all of the content to maintain the speaker's thoughts, opinions, and points of view. 
+Do not: Do not condense the content. Use all of the content to maintain the speaker's thoughts, opinions, and points of view. 
 
 Do: Remove filler works and hesitations ("um," "uh", "like").
 
